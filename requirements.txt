@@ -1,0 +1,12 @@
+segmentation_models
+tensorflow==2.9 
+keras==2.9
+segmentation_models_pytorch
+opencv-python==4.5.5.64
+scikit-learn==1.1.0
+albumentations
+ipywidgets
+jupyter
+torch==2.0.1+cu117
+torchvision==0.15.2+cu117
+torchaudio==2.0.2+cu117 -f https://download.pytorch.org/whl/torch_stable.html
